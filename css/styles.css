@@ -643,7 +643,38 @@ button[type="submit"]:focus {
     border-radius: 4px;
     font-size: 0.9rem;
 }
+/* Project buttons container */
+.project-links{
+    display: flex;
+    gap: 12px;
+    margin-top: 15px;
+}
 
+/* Base button style */
+.project-links a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 45px;
+    height: 45px;
+
+    border-radius: 50%;
+    text-decoration: none;
+
+    background: #555;
+    color: #ffffff;
+
+    font-size: 18px;
+
+    transition: transform 0.2s ease, background 0.2s ease;
+}
+
+/* Hover animation */
+.project-links a:hover{
+    background: #c79a6d;
+    transform: translateY(-3px);
+}
 
 /* ============================= */
 /* Responsive Design */
@@ -909,4 +940,5 @@ body::before{
     }
 
 }
+
 
