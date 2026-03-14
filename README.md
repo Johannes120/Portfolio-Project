@@ -3,7 +3,7 @@
 A personal developer portfolio website created to showcase my software development projects, technical skills, and contact information. The website highlights projects related to Java development, web development, and database systems.
 
 ## Live Website
-
+https://johannes120.github.io/Portfolio-Project/
 
 ## Project Overview
 
@@ -50,5 +50,5 @@ A FinTech-style web banking interface developed using HTML, CSS, and JavaScript.
 ## Installation / Usage
 
 1. Clone the repository
-   
+   https://github.com/Johannes120/Portfolio-Project.git
 2. Navigate to the project folder
