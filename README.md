@@ -47,3 +47,8 @@ Technologies:
 A FinTech-style web banking interface developed using HTML, CSS, and JavaScript. The application includes financial planning tools such as a savings planner and loan calculator, demonstrating real-time calculations and modern interactive UI design.
 
 ## Project Structure
+## Installation / Usage
+
+1. Clone the repository
+   
+2. Navigate to the project folder
