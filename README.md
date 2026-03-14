@@ -51,4 +51,16 @@ A FinTech-style web banking interface developed using HTML, CSS, and JavaScript.
 
 1. Clone the repository
    https://github.com/Johannes120/Portfolio-Project.git
-2. Navigate to the project folder
+2. Open `index.html` in your browser.
+
+## Author
+
+Johannes Motsemme  
+Aspiring Software Developer focused on Java and Web development with FinTech solutions.
+
+GitHub: https://github.com/Johannes120  
+LinkedIn: https://www.linkedin.com/in/johnny-motsemme-874b36273/
+
+## License
+
+This project is for work-readiness and portfolio purposes.
