@@ -42,7 +42,7 @@ body {
 
 .nav-links a {
     position: relative;
-    color: #ffffff;
+    color: #d3d3d3; /* Light grey */
     text-decoration: none;
     font-weight: 600;
     padding: 5px 0;
